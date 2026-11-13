@@ -1,0 +1,10 @@
+# Flutter / Dart
+.dart_tool/
+.pub/
+build/
+pubspec.lock
+
+# Python / FastAPI
+__pycache__/
+venv/
+*.py[cod]
